@@ -1,0 +1,14 @@
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\bin\Debug\net8.0\THWith_aray_list_dictionary.exe
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\bin\Debug\net8.0\THWith_aray_list_dictionary.deps.json
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\bin\Debug\net8.0\THWith_aray_list_dictionary.runtimeconfig.json
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\bin\Debug\net8.0\THWith_aray_list_dictionary.dll
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\bin\Debug\net8.0\THWith_aray_list_dictionary.pdb
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\obj\Debug\net8.0\THWith_aray_list_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\obj\Debug\net8.0\THWith_aray_list_dictionary.AssemblyInfoInputs.cache
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\obj\Debug\net8.0\THWith_aray_list_dictionary.AssemblyInfo.cs
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\obj\Debug\net8.0\THWith_aray_list_dictionary.csproj.CoreCompileInputs.cache
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\obj\Debug\net8.0\THWith_aray_list_dictionary.dll
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\obj\Debug\net8.0\refint\THWith_aray_list_dictionary.dll
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\obj\Debug\net8.0\THWith_aray_list_dictionary.pdb
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\obj\Debug\net8.0\THWith_aray_list_dictionary.genruntimeconfig.cache
+E:\Hoctap\Prj_Github\THWith_aray_list_dictionary\THWith_aray_list_dictionary\obj\Debug\net8.0\ref\THWith_aray_list_dictionary.dll
