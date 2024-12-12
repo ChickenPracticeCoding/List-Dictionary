@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB8680-740D-453C-AB61-55E2B73653A6}|TH_Mang\\TH_Mang.csproj|e:\\hoctap\\prj_github\\list_dic\\lisst\\th_mang\\add\u0026show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB8680-740D-453C-AB61-55E2B73653A6}|TH_Mang\\TH_Mang.csproj|solutionrelative:th_mang\\add\u0026show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB8680-740D-453C-AB61-55E2B73653A6}|TH_Mang\\TH_Mang.csproj|e:\\hoctap\\prj_github\\list_dic\\lisst\\th_mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB8680-740D-453C-AB61-55E2B73653A6}|TH_Mang\\TH_Mang.csproj|solutionrelative:th_mang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB8680-740D-453C-AB61-55E2B73653A6}|TH_Mang\\TH_Mang.csproj|e:\\hoctap\\prj_github\\list_dic\\lisst\\th_mang\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB8680-740D-453C-AB61-55E2B73653A6}|TH_Mang\\TH_Mang.csproj|solutionrelative:th_mang\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB8680-740D-453C-AB61-55E2B73653A6}|TH_Mang\\TH_Mang.csproj|e:\\hoctap\\prj_github\\list_dic\\lisst\\th_mang\\sapxep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB8680-740D-453C-AB61-55E2B73653A6}|TH_Mang\\TH_Mang.csproj|solutionrelative:th_mang\\sapxep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB8680-740D-453C-AB61-55E2B73653A6}|TH_Mang\\TH_Mang.csproj|e:\\hoctap\\prj_github\\list_dic\\lisst\\th_mang\\min_max.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB8680-740D-453C-AB61-55E2B73653A6}|TH_Mang\\TH_Mang.csproj|solutionrelative:th_mang\\min_max.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SapXep.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\SapXep.cs",
+              "RelativeDocumentMoniker": "TH_Mang\\SapXep.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\SapXep.cs",
+              "RelativeToolTip": "TH_Mang\\SapXep.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:58:00.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\Delete.cs",
+              "RelativeDocumentMoniker": "TH_Mang\\Delete.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\Delete.cs",
+              "RelativeToolTip": "TH_Mang\\Delete.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAADEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:47:58.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\Program.cs",
+              "RelativeDocumentMoniker": "TH_Mang\\Program.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\Program.cs",
+              "RelativeToolTip": "TH_Mang\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAxwB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:39:11.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add\u0026Show.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\Add\u0026Show.cs",
+              "RelativeDocumentMoniker": "TH_Mang\\Add\u0026Show.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\Add\u0026Show.cs",
+              "RelativeToolTip": "TH_Mang\\Add\u0026Show.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:32:27.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Min_Max.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\Min_Max.cs",
+              "RelativeDocumentMoniker": "TH_Mang\\Min_Max.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\Min_Max.cs",
+              "RelativeToolTip": "TH_Mang\\Min_Max.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:32:16.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
