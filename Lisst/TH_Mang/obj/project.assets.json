@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\TH_Mang.csproj",
+      "projectUniqueName": "E:\\Hoctap\\Prj_Github\\list_dic\\List-Dictionary\\Lisst\\TH_Mang\\TH_Mang.csproj",
       "projectName": "TH_Mang",
-      "projectPath": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\TH_Mang.csproj",
+      "projectPath": "E:\\Hoctap\\Prj_Github\\list_dic\\List-Dictionary\\Lisst\\TH_Mang\\TH_Mang.csproj",
       "packagesPath": "C:\\Users\\Asus Tuf\\.nuget\\packages\\",
-      "outputPath": "E:\\Hoctap\\Prj_Github\\list_dic\\Lisst\\TH_Mang\\obj\\",
+      "outputPath": "E:\\Hoctap\\Prj_Github\\list_dic\\List-Dictionary\\Lisst\\TH_Mang\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

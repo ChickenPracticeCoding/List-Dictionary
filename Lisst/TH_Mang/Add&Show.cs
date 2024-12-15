@@ -11,16 +11,14 @@ namespace TH_Mang
         static List<int> so_nguyen = new List<int>();
         public static void Nhap()
         {
-            Console.Write("Nhập số lượng số nguyên: ");
+            Console.Write("Vui lòng nhập số lượng số nguyên cần nhập: ");
             int n = int.Parse(Console.ReadLine());
             int dem = 0;
-
             while (dem < n)
             {
-                Console.Write($"Nhập số thứ {dem + 1}: ");
+                Console.Write($"Số {dem + 1}: ");
                 string inputString = Console.ReadLine();
                 bool passSuccess = int.TryParse(inputString, out int number);
-
                 if (passSuccess)
                 {
                     so_nguyen.Add(number);

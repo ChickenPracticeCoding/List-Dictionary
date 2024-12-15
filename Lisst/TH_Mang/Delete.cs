@@ -37,11 +37,21 @@ namespace TH_Mang
             Console.Write("Nhập số cần xóa: ");
             string inputString1 = Console.ReadLine();
             bool passSuccess1 = int.TryParse(inputString1, out int number1);
-
-            if (passSuccess1 && so_nguyen.Contains(number1))
+            if (passSuccess1)
             {
-                so_nguyen.Remove(number1);
-                Console.WriteLine($"Đã xóa: {number1}");
+                for(int i =0; i< so_nguyen.Count; i++)
+                {
+                    if(so_nguyen[i] == number1)
+                    {
+                        so_nguyen.RemoveAt(i);
+                        Console.WriteLine($"Đã xóa: {number1}");
+                        break;
+                    }  
+                    else
+                    {
+                        Console.WriteLine("Không tìm thấy số trong danh sách.");
+                    }    
+                }                  
             }
             else
             {
